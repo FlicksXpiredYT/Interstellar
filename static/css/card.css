@@ -3,8 +3,7 @@
 body {
   text-decoration: none;
   font-family: "Inter";
-  background: #1E1E1E;
-
+  background-image: url("/static/bg.jpg");
 }
 
 
