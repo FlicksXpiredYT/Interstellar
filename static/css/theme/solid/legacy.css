@@ -1,13 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 body {
     background-color: #111
 }
 .title {
     color:white;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
 }
 #searchBar {
     background-color: rgba(59, 56, 56, 0.356);
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
     border-radius: 12px;
 }
 #searchBar::placeholder {
