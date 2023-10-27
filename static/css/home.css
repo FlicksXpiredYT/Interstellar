@@ -1,5 +1,5 @@
 body {
-	background-image: url("/static/bg.jpg");
+	background-image: url("/bg.jpg");
 	background-color: #1e1e1e;
     display: flex;
     justify-content: center;
