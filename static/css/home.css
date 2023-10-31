@@ -1,9 +1,9 @@
 body {
 	background-image: url("/bg.jpg");
 	background-color: #1e1e1e;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   	display: flex;
+  	justify-content: center;
+  	align-items: center;
 }
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&display=swap');
 .text {
