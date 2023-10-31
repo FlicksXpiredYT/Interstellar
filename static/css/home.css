@@ -1,5 +1,5 @@
 body {
-	background-image: url("/static/css/bg.jpg");
+	background-image: url("/bg.jpg");
    	display: flex;
   	justify-content: center;
   	align-items: center;
